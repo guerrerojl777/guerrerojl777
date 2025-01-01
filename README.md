@@ -11,7 +11,7 @@ Bienvenido a mi perfil de GitHub. Soy un ingeniero de software con experiencia e
 ## 📊 Gestión de Proyectos
 - 
 
-## 🛠️ Herramientas y Automización
+## 🛠️ Herramientas y Automatización
 - 
 
 ## 📫 Contacto
