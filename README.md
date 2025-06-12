@@ -15,7 +15,7 @@ Bienvenido a mi perfil de GitHub. Soy un ingeniero de software con experiencia e
 - 
 
 ## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/josel-guerrerob/)
+- [LinkedIn](https://www.linkedin.com/in/guerrerojl/)
 
 ---
 
@@ -36,4 +36,4 @@ Welcome to my GitHub profile. I'm a software engineer with experience in DevOps,
 - 
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/josel-guerrerob/)
+- [LinkedIn](https://www.linkedin.com/in/guerrerojl/)
