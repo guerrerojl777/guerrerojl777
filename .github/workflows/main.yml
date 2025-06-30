@@ -1,24 +1,32 @@
 name: Update README Stats
 
+# Permissions for writing back to the repository
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'     # Runs every day at 00:00 UTC
+  workflow_dispatch:       # Allows manual triggering
 
 jobs:
   update-readme:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04   # Use Ubuntu 22.04 LTS
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true   # Allows push with GITHUB_TOKEN
 
       - name: Update stats badges to custom Vercel endpoint
-        run: |          
+        run: |
+          # Replace public stats URL with your Vercel instance URL
           sed -i 's|https://github-readme-stats\.vercel\.app|https://github-readme-stats-2cxiez21p-jose-luis-guerreros-projects.vercel.app|g' README.md
-                    
+
+      - name: Commit and push changes
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
           git add README.md
-          git commit -m "chore: update stats badges to custom Vercel endpoint" || echo "No changes to commit"
+          git diff --cached --quiet || git commit -m "chore: update stats badges to custom Vercel endpoint"
           git push
