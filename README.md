@@ -17,13 +17,9 @@ Welcome to my GitHub profile. I'm a software engineer with experience in DevOps,
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/guerrerojl777/)
 
-## Check my stats
-
-![Top Langs](https://github-readme-stats-2cxiez21p-jose-luis-guerreros-projects.vercel.app/api/top-langs/?username=guerrerojl777&layout=compact&theme=tokyonight&langs_count=100&count_private=true)
-![GitHub Stats](https://github-readme-stats-2cxiez21p-jose-luis-guerreros-projects.vercel.app/api?username=guerrerojl777&show_icons=true&theme=tokyonight&count_private=true)
-
 
 ## Check my stats
 
-![Top Langs](https://github-readme-stats-eagfcvjyi-jose-luis-guerreros-projects.vercel.app/api/top-langs/?username=guerrerojl777&layout=compact&theme=chartreuse-dark&count_private=true&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true&card_width=420&custom_title=Jos%C3%A9%20Luis%20Guerrero%20-%20Most%20Used%20Languages)
-![GitHub Stats](https://github-readme-stats-eagfcvjyi-jose-luis-guerreros-projects.vercel.app/api?username=guerrerojl777&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&hide_border=true&custom_title=Jos%C3%A9%20Luis%20Guerrero%20-%20(All%20Years)&show_owner=true&line_height=21)
+![Top Langs](https://github-readme-stats-eagfcvjyi-jose-luis-guerreros-projects.vercel.app/api/top-langs/?username=guerrerojl777&layout=compact&theme=chartreuse-dark&count_private=true&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true&card_width=420&custom_title=Jos%C3%A9%20Luis%20Guerrero%20-%20Most%20Used%20Languages&v=1)
+
+![GitHub Stats](https://github-readme-stats-eagfcvjyi-jose-luis-guerreros-projects.vercel.app/api?username=guerrerojl777&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&hide_border=true&custom_title=Jos%C3%A9%20Luis%20Guerrero%20-%20(All%20Years)&show_owner=true&line_height=21&v=1)
