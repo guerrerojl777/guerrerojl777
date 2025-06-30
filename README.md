@@ -1,24 +1,3 @@
-# ¡Hola, soy José Luis Guerrero! 👋
-
-Bienvenido a mi perfil de GitHub. Soy un ingeniero de software con experiencia en DevOps, desarrollo backend, gestión de proyectos, y en la creación de herramientas y automatizaciones. Aquí puedes encontrar una selección de mis proyectos más destacados.
-
-## 🔧 Proyectos de DevOps
-- 
-
-## 💻 Proyectos de Backend
-- 
-
-## 📊 Gestión de Proyectos
-- 
-
-## 🛠️ Herramientas y Automatización
-- 
-
-## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/guerrerojl777/)
-
----
-
 # Hi, I'm José Luis Guerrero! 👋
 
 Welcome to my GitHub profile. I'm a software engineer with experience in DevOps, backend development, project management, and in creating tools and automations. Here you can find a selection of my most notable projects.
@@ -37,3 +16,8 @@ Welcome to my GitHub profile. I'm a software engineer with experience in DevOps,
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/guerrerojl777/)
+
+## Check my stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guerrerojl777&layout=compact&theme=tokyonight&langs_count=100&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guerrerojl777&show_icons=true&theme=tokyonight&count_private=true)

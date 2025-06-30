@@ -1,0 +1,17 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate GitHub stats with private contributions
+        uses: anuraghazra/github-readme-stats@12a082de92a53e8bbf7138164569f026340753c8
+        with:
+          token: ${{ secrets.GH_TOKEN }}
