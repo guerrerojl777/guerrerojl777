@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate GitHub stats with private contributions
-        uses: anuraghazra/github-readme-stats@12a082de92a53e8bbf7138164569f026340753c8
+        uses: anuraghazra/github-readme-stats@master
         with:
           token: ${{ secrets.GH_TOKEN }}

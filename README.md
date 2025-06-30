@@ -19,5 +19,7 @@ Welcome to my GitHub profile. I'm a software engineer with experience in DevOps,
 
 ## Check my stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guerrerojl777&layout=compact&theme=tokyonight&langs_count=100&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guerrerojl777&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats-2cxiez21p-jose-luis-guerreros-projects.vercel.app/api/top-lans/?username=guerrerojl777&layout=compact&theme=tokyonight&langs_count=100&count_private=true)
+![GitHub Stats](https://github-readme-stats-2cxiez21p-jose-luis-guerreros-projects.vercel.app/api?username=guerrerojl777&show_icons=true&theme=tokyonight&count_private=true)
+
+
